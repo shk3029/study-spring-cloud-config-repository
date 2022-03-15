@@ -8,3 +8,5 @@ gateway:
 datasource:
   driver-class-name: org.h2.Driver
   url: jdbc:h2:mem:testdb
+  username: sa
+  password: '{cipher}6c821616081fcacce114d9a0d8a0bf57df1f79d4b6227f6e0fd2c2f116d760d2'
